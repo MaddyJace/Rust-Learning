@@ -1,5 +1,5 @@
 # LearningRust - Rust中文学习！
-> 学习来源[Rust官方书籍](https://doc.rust-lang.org/book/)和[杨旭老师](https://space.bilibili.com/361469957)的Rust的个人学习笔记仓库！
+> 学习来源[Rust官方书籍](https://doc.rust-lang.org/book/)和[杨旭老师](https://space.bilibili.com/361469957)，Rust的个人学习笔记仓库！
 
 > [!WARNING]
 > 学习`Rust`语言之前默认你至少会一门强类型静态编程语言`例: Java, C#`一些编程概念不详细描述！
